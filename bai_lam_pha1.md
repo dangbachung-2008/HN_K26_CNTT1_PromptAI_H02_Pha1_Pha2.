@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:Đặng bá chung**
 - **Lớp:cntt1**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/dangbachung-2008/HN_K26_CNTT1_PromptAI_H02_Pha1_Pha2.**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
